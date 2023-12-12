@@ -1,0 +1,24 @@
+*{font-family: 'Roboto', sans-serif;}
+
+.cabeça{
+    background-color: #ccc;
+    width: 100%;
+    height: 45px;
+    font-weight: bold;
+}
+.botaoct{
+    width: 12%;
+    border: none;
+    height: 45px ;
+    font-weight: bold;
+
+
+}
+
+
+
+.botão{
+    background-color: #ccc;
+    border: black solid 0.1px;
+    width: 8rem;
+    padding: auto;}
